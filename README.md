@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi 👋, I'm Uday Mali
 
-<!--
-**Maliuday/Maliuday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ☁️ Aspiring AWS Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+I'm an MCA student passionate about Cloud Computing, Linux, AWS, and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building real-world cloud projects and continuously improving my skills to become a job-ready AWS DevOps Engineer.
+
+---
+
+## 🚀 Currently Learning
+
+- ☁️ AWS Cloud
+- 🐧 Linux
+- 🐳 Docker
+- 🔧 Jenkins
+- 🌿 Git & GitHub
+- ⚙️ GitHub Actions
+- 🌐 Networking
+- 🛡️ AWS Security
+- 📦 Terraform (Learning)
+
+---
+
+## 🛠️ Tech Stack
+
+- AWS
+- Linux
+- Git
+- GitHub
+- Docker
+- Jenkins
+- Apache
+- Nginx
+- PHP
+- MySQL
+- Node.js
+- Shell Scripting
+
+---
+
+## 📂 Featured Projects
+
+- 🚀 LAMP Stack on AWS EC2
+- 🚀 LEMP Stack on AWS EC2
+- 🚀 Node.js Application Hosting on AWS
+- 🚀 Linux Administration Practice
+- 🚀 DevOps Hands-on Labs
+
+(More projects coming soon...)
+
+---
+
+## 📜 Certifications
+
+- AWS Skill Builder (In Progress)
+- DevOps Learning Journey
+- More certifications coming soon...
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Master AWS
+- ✅ Learn Docker
+- ✅ Learn Jenkins
+- ✅ Learn Terraform
+- ✅ Build Real DevOps Projects
+- ✅ Crack AWS DevOps Job
+
+---
+
+## 📫 Contact
+
+📧 **Email:** maliuday0326@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile.
